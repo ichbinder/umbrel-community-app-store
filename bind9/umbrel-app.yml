@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: bind9
+name: Bind9 DNS Server
+tagline: Home DNS Server 
+icon: https://app.claudion.com/files/OVPHAxb.jpg
+category: Networking
+version: "9.16.15"
+port: 53
+description: >-
+ Current Bind9 Docker Image from Canonical, based on Ubuntu. Receives security updates and tracks the newest combination of Bind9 and Ubuntu. This repository is free to use and exempted from per-user rate limits.
+
+developer: ichbinder
+website: https://hub.docker.com/r/ubuntu/bind9
+submitter: ichbinder
+submission: https://github.com/ichbinder/umbrel-hello-world-app
+repo: https://github.com/ichbinder/umbrel-hello-world-app
+support: https://github.com/ichbinder/umbrel-hello-world-app/issues
+gallery:
+  - https://www.pngkit.com/png/detail/610-6109118_bind-9-logo-black-bind.png
+releaseNotes: >-
+  bind9
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
