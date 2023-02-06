@@ -2,7 +2,7 @@ manifestVersion: 2
 id: home-store-bind9
 name: Bind9 DNS Server
 tagline: Home DNS Server 
-icon: https://svgur.com/i/mvA.svg
+icon: https://www.isc.org/images/Bind_9_ISC_Blue_320x320.png
 category: Development
 version: "9.16.15"
 port: 53
@@ -18,9 +18,7 @@ submission: https://github.com/ichbinder/umbrel-hello-world-app
 repo: https://github.com/ichbinder/umbrel-hello-world-app
 support: https://github.com/ichbinder/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://informaticocurioso.wordpress.com/2016/11/08/instalacion-de-un-servidor-dns-con-linux/
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
