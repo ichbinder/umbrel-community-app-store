@@ -1,5 +1,5 @@
 manifestVersion: 2
-id: bind
+id: home-store-bind9
 name: Bind9 DNS Server
 tagline: Home DNS Server 
 icon: https://svgur.com/i/mvA.svg
@@ -7,8 +7,8 @@ category: Development
 version: "9.16.15"
 port: 53
 description: >-
- Current Bind9 Docker Image from Canonical, 
- based on Ubuntu. Receives security updates and tracks the newest combination of Bind9 and Ubuntu.
+  Current Bind9 Docker Image from Canonical, 
+  based on Ubuntu. Receives security updates and tracks the newest combination of Bind9 and Ubuntu.
   This repository is free to use and exempted from per-user rate limits.
 
 developer: ichbinder
